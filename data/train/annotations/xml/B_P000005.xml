@@ -1,0 +1,3424 @@
+<?xml version="1.0"?>
+<ASAP_Annotations>
+	<Annotations>
+		<Annotation Name="Annotation 1" Type="Polygon" PartOfGroup="ROI" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="26427.6875" Y="84919.6953" />
+				<Coordinate Order="1" X="26269.9727" Y="85313.9844" />
+				<Coordinate Order="2" X="26197.9727" Y="85711.7031" />
+				<Coordinate Order="3" X="26276.8301" Y="86119.7031" />
+				<Coordinate Order="4" X="27151.123" Y="86603.1406" />
+				<Coordinate Order="5" X="27809.416" Y="86887.7109" />
+				<Coordinate Order="6" X="28347.707" Y="86819.1406" />
+				<Coordinate Order="7" X="28728.2832" Y="86503.7109" />
+				<Coordinate Order="8" X="29386.5742" Y="86462.5625" />
+				<Coordinate Order="9" X="29767.1504" Y="86387.1328" />
+				<Coordinate Order="10" X="30158.0098" Y="86147.1328" />
+				<Coordinate Order="11" X="30356.8691" Y="85687.7031" />
+				<Coordinate Order="12" X="30212.8691" Y="85070.5469" />
+				<Coordinate Order="13" X="29839.1504" Y="84772.2656" />
+				<Coordinate Order="14" X="29294.002" Y="84556.2578" />
+				<Coordinate Order="15" X="28772.8535" Y="84497.9766" />
+				<Coordinate Order="16" X="28097.4199" Y="84453.3984" />
+				<Coordinate Order="17" X="27655.1289" Y="84535.6875" />
+				<Coordinate Order="18" X="27079.123" Y="84703.6875" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 5" Type="Polygon" PartOfGroup="ROI" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="42995.832" Y="138511.125" />
+				<Coordinate Order="1" X="44243.375" Y="138474.344" />
+				<Coordinate Order="2" X="44914.6562" Y="138360.938" />
+				<Coordinate Order="3" X="45671.7656" Y="137754.016" />
+				<Coordinate Order="4" X="45941.5078" Y="137156.297" />
+				<Coordinate Order="5" X="45757.5938" Y="136481.953" />
+				<Coordinate Order="6" X="45254.8984" Y="135988.453" />
+				<Coordinate Order="7" X="44506.9844" Y="135734.047" />
+				<Coordinate Order="8" X="44019.6133" Y="135501.078" />
+				<Coordinate Order="9" X="43636.4609" Y="135470.438" />
+				<Coordinate Order="10" X="42787.3945" Y="135651.281" />
+				<Coordinate Order="11" X="42235.6562" Y="135985.391" />
+				<Coordinate Order="12" X="42008.8281" Y="136767.016" />
+				<Coordinate Order="13" X="41968.9805" Y="137030.625" />
+				<Coordinate Order="14" X="42067.0703" Y="137462.828" />
+				<Coordinate Order="15" X="42327.6133" Y="137953.266" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 2" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="30019.8789" Y="85148.8281" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 3" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="30105.9629" Y="85287.7031" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 4" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="30056.4902" Y="85309.2812" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 5" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="30061.6973" Y="85334.5703" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 6" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="30161.3867" Y="85426.4531" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 7" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="30105.5898" Y="85405.9922" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 8" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="30085.877" Y="85398.9219" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 9" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="30093.6875" Y="85420.125" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 10" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="30018.5488" Y="85383.3047" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 11" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="30026.7324" Y="85413.0625" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 12" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="30037.5195" Y="85412.3125" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 14" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="30051.6543" Y="85462.9062" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 15" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="30006.2734" Y="85427.5625" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 16" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="30199.6992" Y="85488.5703" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 17" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="30069.6465" Y="85520.6484" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 18" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="30083.9434" Y="85566.9844" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 19" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="30068.168" Y="85569.6953" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 20" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="30001.1211" Y="85557.8672" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 21" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="30056.3359" Y="85610.3672" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 22" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="30048.6934" Y="85627.375" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 23" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="30029.4668" Y="85608.8906" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 24" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="30016.8965" Y="85619.7344" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 25" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="30028.4824" Y="85636.0078" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 26" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="30166.2715" Y="85572.9062" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 27" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29989.8691" Y="85678.2578" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 28" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="30050.6348" Y="85667.0938" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 29" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="30109.2285" Y="85716.0781" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 30" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="30022.4219" Y="85654.0781" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 31" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="30189.5254" Y="85694.0703" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 32" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="30185.8047" Y="85765.0625" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 33" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29907.9727" Y="85593.4609" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 34" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29938.9883" Y="85619.1953" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 35" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29932.0586" Y="85685.8438" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 36" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29895.1055" Y="85648.2266" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 37" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29896.7559" Y="85636.6797" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 38" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29890.8164" Y="85627.7734" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 39" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29844.2969" Y="85703.3281" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 40" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29817.2422" Y="85652.5156" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 41" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29823.5098" Y="85627.4453" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 42" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29802.3945" Y="85643.6094" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 43" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29743.3359" Y="85672.3125" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 45" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29863.1016" Y="85793.0703" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 46" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29811.9336" Y="85806.875" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 47" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29884.625" Y="85872.6641" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 49" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29851.3262" Y="85864.1328" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 50" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29807.4668" Y="85868.1953" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 51" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29810.7148" Y="85849.9219" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 52" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29805.8418" Y="85770.7344" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 53" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29852.2031" Y="85957.75" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 54" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29746.7812" Y="85920.4609" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 55" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29762.6621" Y="85908.7266" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 56" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29783.6094" Y="85910.5625" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 57" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29770.9492" Y="85921.6172" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 58" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29770.2598" Y="85955.4531" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 59" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29676.0996" Y="86024.5469" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 60" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29682.7188" Y="86051.2891" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 61" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29663.1406" Y="86059.5625" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 62" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29729.0391" Y="86036.125" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 63" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29789.6992" Y="86044.6719" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 64" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29779.7734" Y="86080.7891" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 66" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29861.6641" Y="86021.2344" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 67" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="30040.1875" Y="86055.6875" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 68" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="30135.248" Y="86089.0391" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 69" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29880.1836" Y="86175.2812" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 70" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29690.0664" Y="86169.2812" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 71" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29714.1914" Y="86109.2188" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 72" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29544.4395" Y="86114" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 73" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29626.4766" Y="86063.4766" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 74" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29425.6836" Y="86186.9062" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 76" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29351.6953" Y="86360.9531" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 77" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29325.627" Y="86345.4297" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 78" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29300.4375" Y="86332.25" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 79" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29286.0859" Y="86349.5312" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 80" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29341.1504" Y="86262.5391" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 81" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29251.2305" Y="86301.5" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 82" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29166.6738" Y="86215.6719" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 83" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29344.7285" Y="85909.8047" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 84" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29141.4062" Y="86086.3984" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 85" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29074.5879" Y="86099.2891" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 86" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29043.5645" Y="86065.3984" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 87" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29010.1543" Y="86126.4922" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 88" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28843.127" Y="86305.4141" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 89" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28801.6504" Y="86260.3359" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 90" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29158.2285" Y="86052.3203" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 91" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29206.9844" Y="85786.3438" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 92" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29207.8887" Y="85746.5469" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 93" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29183.377" Y="85611.8047" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 94" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29190.4688" Y="85624.3203" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 95" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29459.8379" Y="85653.4688" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 96" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29521.3574" Y="85595.0078" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 97" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28679.3457" Y="86258.1328" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 98" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28615.8984" Y="86229.6875" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 99" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28592.707" Y="86213.9375" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 100" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28535.8242" Y="86217.4375" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 101" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28505.4492" Y="86182.4688" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 102" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28443.666" Y="86142.6562" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 103" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28423.3008" Y="86145.3984" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 104" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28574.9141" Y="85993.6328" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 105" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28551.0293" Y="85986" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 106" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28560.1406" Y="85966.0547" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 107" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28545.6133" Y="85968.0312" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 108" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28572.6035" Y="85897.2891" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 109" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28687.3828" Y="85845.3203" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 110" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28434.7266" Y="85929.7891" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 111" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28429.4629" Y="85902.2734" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 112" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28418.2188" Y="85940.3125" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 113" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28405.3008" Y="85944.6172" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 117" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28341.4238" Y="85961.125" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 118" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28205.6973" Y="86037.3984" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 119" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28067.5742" Y="86012.0859" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 120" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="27899.7969" Y="85982.6172" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 121" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28283.2148" Y="86229.5469" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 122" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28241.1309" Y="86281.9453" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 123" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28439.7871" Y="86306.1641" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 124" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28327.7129" Y="86391.6484" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 125" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28315.9336" Y="86409.1484" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 126" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28231.1191" Y="86383.5703" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 127" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28215.9746" Y="86400.3984" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 128" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28460.0527" Y="86570.0625" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 129" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28450.2324" Y="86530.7812" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 131" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28339.9199" Y="86534.0938" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 132" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28299.0293" Y="86513.2656" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 133" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28224.3535" Y="86637.8828" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 134" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28213.1523" Y="86602.9219" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 135" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28367.5312" Y="86739.2891" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 136" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28290.9062" Y="86778.0078" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 138" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28128.2305" Y="86660.3984" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 139" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28102.2207" Y="86660.3203" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 140" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="27891.4277" Y="86805.7578" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 141" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="27799.2207" Y="86482.3984" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 142" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="27839.4121" Y="86481.2031" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 143" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="27310.9453" Y="86495.7188" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 144" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="27374.4648" Y="86488.6953" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 145" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="27498.3457" Y="86430.0938" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 146" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="27628.8379" Y="86387.6094" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 147" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="27627.3262" Y="86304.4609" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 148" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="27651.5156" Y="86316.9844" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 149" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="27626.8945" Y="86270.7656" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 150" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="27410.4473" Y="86329.4844" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 151" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="27103.4551" Y="86376.8047" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 152" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="27355.2891" Y="86172.3594" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 153" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="27649.627" Y="86150.1484" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 154" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="26731.8008" Y="86329.8516" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 155" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="26747.9453" Y="86327.3906" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 156" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="26679.334" Y="86328.7344" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 157" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="26679.5586" Y="86309.4531" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 158" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="26780.9062" Y="86336.5781" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 159" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="26634.8281" Y="86039.5391" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 160" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="27241.7637" Y="85944.1172" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 161" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="27204.5469" Y="85956.3594" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 162" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="27432.8457" Y="85783.9453" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 163" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="26283.0488" Y="85603.5625" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 164" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="26317.6953" Y="85652.8594" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 165" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="26328.1172" Y="85626.6641" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 166" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="26350.9336" Y="85604.6875" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 167" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="26524.4492" Y="85634.8281" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 168" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="26638.8008" Y="85591.4219" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 169" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="26937.8301" Y="85693.3828" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 170" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="26863.9453" Y="85606.9219" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 171" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="26881.1602" Y="85591.0625" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 172" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="27012.6816" Y="85452.5938" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 173" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="26812.7012" Y="85446.3438" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 174" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="27012.6055" Y="85193.1484" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 175" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="26993.7754" Y="85194.625" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 176" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="27005.5898" Y="85165.4609" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 177" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="27031.8066" Y="85119.6719" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 178" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="26960.9141" Y="85059.4844" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 179" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="27029.5898" Y="85043.6094" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 180" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="27047.6836" Y="84982.3203" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 181" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="27307.3887" Y="84957.9688" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 182" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="27542.9824" Y="85004.6328" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 183" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="27560.0352" Y="85011.8125" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 184" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="27832.748" Y="84927.2734" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 185" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="27811.5801" Y="84911.1172" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 186" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="27751.1445" Y="84904.4297" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 187" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28019.4824" Y="84908.3594" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 188" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28200.9668" Y="84709.4062" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 190" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28204.1094" Y="84672.6406" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 191" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28219.502" Y="84656.3125" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 192" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28242.1211" Y="84644.6875" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 193" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28213.2207" Y="84630.5469" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 195" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28331.6406" Y="84885.9219" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 196" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28206.9141" Y="85111.4219" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 197" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28270.4199" Y="85281.5703" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 198" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28250.0508" Y="85311.5234" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 199" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28265.627" Y="85252.8125" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 200" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28215.2949" Y="85424.8359" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 201" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="27948.6602" Y="85343.6562" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 202" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28237.2402" Y="85595.5469" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 203" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28490.4688" Y="85673.2188" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 204" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28587.0508" Y="85612.1953" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 205" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28765.4238" Y="85682.0234" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 206" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28844.9316" Y="85652.9375" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 207" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28768.332" Y="85613.6641" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 208" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28734.3965" Y="85645.6641" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 209" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28700.9453" Y="85630.6328" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 210" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28636.9512" Y="85584.0938" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 211" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28644.707" Y="85641.7812" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 212" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28690.2793" Y="85518.6406" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 213" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28578.7734" Y="85522.0391" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 214" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28588.9551" Y="85488.5859" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 215" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28660.623" Y="85424.0938" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 216" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28865.4531" Y="85623.3672" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 217" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28878.0703" Y="85602.8281" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 218" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28856.5469" Y="85593.4297" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 219" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28825.623" Y="85583.0391" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 220" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28900.8301" Y="85583.5312" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 221" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28920.373" Y="85597.8828" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 223" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28937.4434" Y="85600.8516" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 224" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28948.9336" Y="85523.8516" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 225" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28969.0117" Y="85501.3359" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 226" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28995.3301" Y="85502.6875" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 227" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28923.9727" Y="85471.2188" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 228" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28895.4844" Y="85469.0469" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 229" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28885.7168" Y="85486.9531" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 230" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28877.2344" Y="85422" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 231" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28873.2734" Y="85383.7109" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 232" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28839.4727" Y="85414.6094" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 233" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28869.9863" Y="85301.2578" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 234" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28885.9746" Y="85249.9453" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 235" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28850.9219" Y="85045.1875" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 236" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29082.8633" Y="84891.6875" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 237" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29108.0664" Y="84886.2422" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 238" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29150.3008" Y="84861.7188" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 239" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29098.2031" Y="85563.875" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 240" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29087.875" Y="85523.3828" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 241" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29113.4902" Y="85438.6875" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 242" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29105.2266" Y="85422.5703" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 243" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29075.4785" Y="85431.6641" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 244" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29181.248" Y="85409.3516" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 245" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29214.3027" Y="85345.3125" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 246" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29186.6191" Y="85343.2422" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 247" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29075.8926" Y="85340.3516" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 248" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29074.6523" Y="85322.5859" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 249" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29007.7207" Y="85324.6484" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 250" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29142.1738" Y="85303.1484" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 251" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29208.2949" Y="85291.1953" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 252" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28927.1016" Y="85264.6953" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 253" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28944.6113" Y="85293.875" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 254" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29303.4082" Y="85317.0156" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 255" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29332.8301" Y="85224.8359" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 256" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29759.6602" Y="84886.0625" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 257" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29757.2949" Y="84917.4453" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 258" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29928.5703" Y="84856.9141" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 259" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29914.0059" Y="84847.0078" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 260" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29828.9453" Y="84856.5234" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 261" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29954.3984" Y="84876.3359" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 263" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29984.8887" Y="84898.0859" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 264" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29713.1074" Y="84745.7656" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 266" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29593.5371" Y="84693.3594" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 267" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29603.2051" Y="84745" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 268" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29511.3809" Y="84958.7344" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 269" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28447.7246" Y="85068.3281" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 270" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28399.0391" Y="85080.8984" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 271" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29239.4609" Y="86235.1484" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 273" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28007.3086" Y="85957.2734" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 275" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29509.9473" Y="84791.0234" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 276" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29762.9844" Y="84862.9219" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 277" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29747.959" Y="85163.4141" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 278" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="30133.9883" Y="85259.4531" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 279" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="30059.8652" Y="85232.2812" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 281" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29872.9102" Y="85344.2891" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 282" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29980.3887" Y="85397.4062" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 283" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="30233.0527" Y="85335.3359" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 284" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29981.752" Y="85462.6406" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 285" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="30008.7715" Y="85513.1562" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 287" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="30057.1191" Y="85477.1406" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 288" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="30074.4316" Y="85545.4609" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 289" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="30167.8047" Y="85636.1094" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 291" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="30167.0625" Y="85696.1562" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 292" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29990.1738" Y="85696.2266" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 293" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29882.0312" Y="85676.875" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 294" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29843.0938" Y="85618.7031" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 295" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29808.3242" Y="85668.1953" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 296" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29845.6875" Y="85845.4766" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 297" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29874.2988" Y="85823.4922" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 298" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29759.1543" Y="85939.6875" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 299" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29735.7773" Y="85938.2891" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 300" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="30137.1035" Y="85858.5" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 301" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="30067.416" Y="85991.9141" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 302" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="30054.8633" Y="85988.7188" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 303" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="30016.9941" Y="86045.7422" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 304" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29998.4844" Y="86046.375" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 305" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29854.3086" Y="86120.4531" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 306" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29776.6934" Y="86307.0859" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 307" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29553.9629" Y="86368.6562" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 308" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29455.0469" Y="86301.0312" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 309" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29181.377" Y="86270.8672" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 310" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29347.6172" Y="85945.2344" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 311" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28751.834" Y="86298.0625" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 312" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28639.3574" Y="86284.4531" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 313" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29129.5898" Y="85626.5078" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 314" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29151.7441" Y="85600.7031" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 315" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28913.084" Y="85688.0391" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 316" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28928.0625" Y="85640.8984" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 317" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28951.127" Y="85565.2812" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 318" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28960.4375" Y="85582.1562" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 319" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29149.6465" Y="85333.2891" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 320" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29608.418" Y="85671.9219" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 321" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29589.3926" Y="85437.5391" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 322" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29448.8828" Y="85270.9531" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 323" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28627.9648" Y="85117.5781" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 324" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28574.6602" Y="84960.3047" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 325" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28631.6836" Y="85454.0469" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 326" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28495.6914" Y="85441.625" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 327" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28451.3066" Y="85377.3516" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 328" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28685.5059" Y="85577.7422" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 329" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28544.7305" Y="85604.2266" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 330" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28552.7461" Y="85568.3359" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 331" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28617.8145" Y="85553.4062" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 332" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28495.6484" Y="85909.5078" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 333" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28506.7676" Y="86035.1328" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 334" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28411.9941" Y="86558.9453" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 335" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28402.5879" Y="86542.9531" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 336" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28404.877" Y="86739.9141" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 337" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="27882.2988" Y="86795.3672" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 338" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="27781.8809" Y="86625.0469" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 339" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="27817.4434" Y="86610.8984" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 340" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28281.9688" Y="86378.1875" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 341" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28303.0137" Y="86383.8672" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 342" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28162.0449" Y="86354.4688" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 343" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28145.0078" Y="86355.4766" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 344" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28156.0312" Y="86266.2812" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 345" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="27980.0898" Y="86138.6172" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 346" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28458.8809" Y="86106.1875" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 348" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="27536.5039" Y="85650.7969" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 349" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="27744.4414" Y="85692.9531" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 350" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="27415.8906" Y="85187.2422" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 351" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="27258.4766" Y="85350.5" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 352" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="27069.8711" Y="85040.2422" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 353" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="27102.7676" Y="84847.9062" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 354" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="27042.1621" Y="84850.5312" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 355" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="27038.4434" Y="84836.9688" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 356" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="27710.4688" Y="84948.8672" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 357" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="27672.6621" Y="84906.625" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 358" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="26686.8262" Y="85377.3047" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 359" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="26671.1406" Y="85434.4375" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 360" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="26286.5371" Y="85729.7812" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 361" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="26278.1699" Y="85645.8828" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 362" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="26763.3594" Y="85486.4219" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 363" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="27027.9414" Y="85536.9141" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 364" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="26883.1602" Y="85706.8125" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 365" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="26973.9277" Y="85749.2656" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 366" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="27110.2051" Y="85986.2891" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 367" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="26701.3418" Y="85896.9453" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 368" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="26917.8633" Y="86170.2812" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 369" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="26877.7344" Y="86188.3047" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 370" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="27229.709" Y="86429.9297" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 371" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="27673.9766" Y="86283.5156" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 372" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="27532.3086" Y="86037.125" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 373" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="27755.3164" Y="85979.2031" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 374" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="27743.498" Y="85977.9375" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 375" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="27814.1992" Y="86021.625" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 377" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="27833.4043" Y="86018.0312" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 378" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28365.0039" Y="85956.3359" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 379" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28378.3184" Y="85951.4922" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 380" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29073.6992" Y="84861.2109" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 381" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44074.25" Y="135576.516" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 382" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44047.1562" Y="135572.875" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 383" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44025.3711" Y="135553.609" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 384" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44020.0625" Y="135575.672" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 385" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44036.2617" Y="135588.797" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 386" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44032.0742" Y="135608.906" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 387" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44040.4531" Y="135626.234" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 388" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44024.2539" Y="135639.641" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 389" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44006.9336" Y="135627.062" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 390" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43994.9258" Y="135640.75" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 391" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44011.4023" Y="135650.25" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 393" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43999.3945" Y="135592.438" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 394" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44014.1992" Y="135596.062" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 396" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44119.5273" Y="135564.328" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 397" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43995.8164" Y="135683.031" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 398" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43987.793" Y="135696.734" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 399" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43970.0742" Y="135680.359" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 400" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44002.8398" Y="135722.484" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 401" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44031.2578" Y="135730.844" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 402" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44065.3633" Y="135718.141" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 403" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44078.0664" Y="135745.891" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 405" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44026.9141" Y="135768.281" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 406" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44009.8594" Y="135743.203" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 407" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43995.4844" Y="135755.25" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 408" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43968.4023" Y="135755.25" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 409" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44098.1289" Y="135782.656" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 410" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43865.043" Y="135577.094" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 412" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43889.293" Y="135631.734" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 413" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43875.1367" Y="135652.297" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 414" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43870.8711" Y="135679.25" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 415" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43881.8398" Y="135827.172" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 416" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43849.8281" Y="135880.266" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 417" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43853.2812" Y="135840.016" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 418" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43843.1211" Y="135898.281" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 419" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43750.4062" Y="135974.016" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 420" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43391.2773" Y="135880.109" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 421" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43423.6289" Y="136138.5" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 422" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44376.9609" Y="135812.594" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 423" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44498.8398" Y="135815.094" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 424" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44520.543" Y="135823.031" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 425" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44529.7266" Y="135871.031" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 426" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44487.1523" Y="135851.406" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 427" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44566.7695" Y="135939.562" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 428" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44545.043" Y="135933.938" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 429" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44544.0703" Y="135916.672" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 430" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="45056.3281" Y="136111.109" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 431" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="45308.7773" Y="136331.188" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 432" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="45261.25" Y="136483.578" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 433" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="45220.082" Y="136559.719" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 434" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="45409.0547" Y="136628.906" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 435" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="45426.4141" Y="136634.109" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 436" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="45191.8125" Y="136570.625" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 437" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="45147.1758" Y="136563.438" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 438" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="45076.6406" Y="136464.078" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 439" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="45259.5742" Y="136689.016" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 440" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="45260.0781" Y="136728.344" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 441" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="45327.7266" Y="136772.703" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 442" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="45340.7578" Y="136790.234" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 443" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="45370.3242" Y="136732.609" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 444" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="45214.8945" Y="136867.922" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 445" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="45225.8984" Y="136839.797" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 446" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="45311.0195" Y="136892.141" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 448" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="45305.8555" Y="136918.906" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 449" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="45763.4258" Y="137000.391" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 450" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="45808.0273" Y="137041.766" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 452" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="45808.5195" Y="136996.672" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 453" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="45806.7852" Y="136948.359" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 454" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="45759.125" Y="137155.578" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 455" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="45312.8711" Y="137289.219" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 456" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="45227.8945" Y="137110.719" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 457" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="45217.5781" Y="137119.969" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 459" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="45515.9805" Y="137418.969" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 460" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="45631.5078" Y="137547.531" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 461" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="45564.0195" Y="137688.859" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 462" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="45496.3477" Y="137746.422" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 463" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="45396.7305" Y="137720.203" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 464" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="45304.9258" Y="137640.047" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 465" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="45357.0469" Y="137638.188" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 467" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="45378.2109" Y="137636.344" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 468" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="45396.7305" Y="137638.984" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 469" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="45373.7656" Y="137739.406" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 470" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="45047.5586" Y="137553.469" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 471" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="45123.0703" Y="137582.562" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 472" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44933.6406" Y="136919.281" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 473" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44877.6289" Y="136941.297" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 474" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44854.4531" Y="136950.188" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 475" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44874.9258" Y="137020.094" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 476" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44845.5703" Y="137005.812" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 477" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44836.6836" Y="137001.562" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 478" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44788.7852" Y="137004.266" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 479" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44770.6289" Y="137006.969" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 480" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44832.8203" Y="137080.359" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 481" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44857.1562" Y="137088.078" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 482" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44881.4922" Y="137106.234" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 483" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44665.6953" Y="137041.312" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 484" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44540.0859" Y="137094.516" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 485" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44561.1875" Y="136684.906" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 486" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44511.0508" Y="136582.406" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 487" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44441.8711" Y="136524.016" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 488" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44470.2891" Y="136437.25" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 489" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44688.4492" Y="136290.875" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 490" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44632.3438" Y="136405" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 491" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44908.4336" Y="136692.828" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 492" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43816.5938" Y="136434.109" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 493" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43828.1641" Y="136446.234" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 494" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="42702.8633" Y="136566.172" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 495" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="42841.2148" Y="136624.047" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 496" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="42901.9453" Y="136656.562" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 497" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="42840.3984" Y="136721.391" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 498" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="42973.7188" Y="136644.797" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 499" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="42766.4648" Y="136786.094" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 501" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="42769.4688" Y="136858.641" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 502" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="42758.4609" Y="136846.891" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 503" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="42405.7812" Y="136651.641" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 504" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="42387.3047" Y="136666.859" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 505" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="42350.7109" Y="136801.266" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 506" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="42376.7969" Y="136815.766" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 507" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="42365.2031" Y="136783.156" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 508" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="42335.4961" Y="136807.797" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 509" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="42397.0859" Y="136845.828" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 510" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="42023.4688" Y="136911.094" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 511" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="42033.8086" Y="136945.453" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 512" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="42148.7344" Y="136879.172" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 513" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="42177.6172" Y="136907.75" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 514" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="42166.3672" Y="136928.125" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 515" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="42159.375" Y="136863.359" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 516" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="42264.2656" Y="136827.797" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 517" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="42086.4453" Y="137405.375" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 518" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="42092.3867" Y="137379.641" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 519" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="42099.3164" Y="137360.438" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 520" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="42260.2031" Y="137540.938" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 521" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="42727.4961" Y="137903.422" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 522" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="42761.7148" Y="137915.016" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 523" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="42826.8633" Y="138363.984" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 527" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43382.043" Y="138345.094" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 528" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43348.3242" Y="138203.578" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 529" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43330.6914" Y="138147.156" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 530" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43372.5078" Y="138119.281" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 531" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43252.2695" Y="138010.5" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 532" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43721.2383" Y="138125.766" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 533" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43770.7422" Y="138129.453" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 534" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43784.7188" Y="138139.359" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 535" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43617.0703" Y="138095.734" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 536" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43597.9492" Y="137995.391" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 537" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43576.4102" Y="137945.906" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 538" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44103.5234" Y="138404.672" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 539" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44080.3633" Y="138468.531" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 540" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44183.0273" Y="138416.562" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 541" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44248.1367" Y="138408.641" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 542" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44182.2695" Y="138147.375" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 543" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44194.8867" Y="138172.203" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 544" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43926.8633" Y="137920.703" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 545" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43904.4883" Y="137891.016" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 546" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44014.0859" Y="137797.969" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 547" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43999.9375" Y="137796.609" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 549" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44058.9062" Y="137796.328" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 550" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43663.8086" Y="137560.469" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 551" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43080.832" Y="137498.703" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 552" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43153.5195" Y="137456.016" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 553" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43418.4844" Y="137373.609" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 554" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43726.1836" Y="137187.797" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 555" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="42607.1797" Y="137197.312" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 556" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43413.0664" Y="137016.938" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 557" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43383.6875" Y="136910.484" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 558" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43062.2266" Y="136891.266" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 559" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44083.9727" Y="136832.188" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 561" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43812.3906" Y="137002.281" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 562" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44450.2578" Y="137400.844" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 564" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44502.3086" Y="137745.547" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 565" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44542.5664" Y="137709.828" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 566" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44216.668" Y="137880.594" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 567" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44627.9844" Y="138349.672" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 568" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44881.0312" Y="138274.859" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 569" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44900.6953" Y="138233.922" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 570" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44903.3281" Y="138196.234" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 571" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44732.832" Y="138034.422" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 572" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44692.6719" Y="137941.891" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 541" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43921.8594" Y="135794.844" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 542" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43899.8359" Y="135796.922" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 543" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44666.0742" Y="136346.484" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 544" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44294.1641" Y="136317.281" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 545" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44556" Y="136574.094" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 546" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44527.6992" Y="136586.453" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 547" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44512.5547" Y="136553.766" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 548" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="45258.3633" Y="136629.047" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 549" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="45215.3789" Y="136650.766" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 550" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="45338.625" Y="136665.188" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 552" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="45352.0039" Y="136356.25" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 553" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="45590.2578" Y="136671.844" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 554" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="45068.4258" Y="137053.156" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 555" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="45040.2734" Y="137111.859" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 556" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="45009.7266" Y="137122.641" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 557" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44991.7539" Y="137120.234" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 558" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="45077.4102" Y="137242.438" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 559" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="45182.0039" Y="137126.922" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 560" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44939.0156" Y="137130.328" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 562" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44639.8906" Y="137046.984" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 565" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44435" Y="137064.547" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 567" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44586.2812" Y="137037.75" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 568" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="45222.1914" Y="136801.578" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 569" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44519.1562" Y="136987.328" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 570" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44410.7305" Y="137084.297" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 571" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44349.668" Y="137043.359" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 572" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44498.1484" Y="136831.969" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 574" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44664.0039" Y="136033.297" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 575" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43764.2461" Y="136012.859" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 576" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43718.0117" Y="136119.297" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 577" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43734.2578" Y="135562.156" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 578" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43734.2578" Y="135670.109" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 579" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43738.2891" Y="135654.438" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 580" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="42979.1289" Y="135895.078" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 581" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43013.5078" Y="136022.578" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 583" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43358.543" Y="135931.25" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 584" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43351.1562" Y="135957.906" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 585" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43275.6133" Y="136155.875" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 586" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43416.5117" Y="136187.969" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 588" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="42865.5039" Y="135954.672" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 590" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="42589.8672" Y="135795.906" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 591" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="42581.7578" Y="135973.109" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 592" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="42262.5664" Y="136238.234" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 593" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="42306.8594" Y="136276.578" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 594" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="42881.3711" Y="136152.766" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 596" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="42995.4141" Y="136678.344" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 597" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="42824.7227" Y="136835.547" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 598" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43088.6055" Y="136810.438" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 599" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43105.5469" Y="136832.719" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 600" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43018.5078" Y="136990.016" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 602" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43346.6992" Y="136781.156" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 606" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43509.625" Y="136981.688" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 607" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43570.8555" Y="136953" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 608" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43678.2695" Y="136720.281" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 609" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43785.6719" Y="136768.656" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 610" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43690.7344" Y="136687.016" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 611" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43745.6211" Y="136587.594" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 613" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43625.2617" Y="136440.844" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 614" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43650.3906" Y="136422" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 615" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="45137.3516" Y="136550" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 616" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="45118.0508" Y="136542.047" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 617" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="45345.9922" Y="136597.172" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 618" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="45606.5703" Y="136936.922" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 619" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="45232.4102" Y="137325.25" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 620" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="45422.6602" Y="137288.984" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 621" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="45810.7656" Y="137386.297" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 622" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44936.543" Y="138055.484" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 623" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44928.4531" Y="138004.438" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 624" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44932.6562" Y="138236.516" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 625" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44710.125" Y="137982.938" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 626" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44720.668" Y="137973.094" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 627" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44033.8867" Y="138048.828" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 628" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44076.4414" Y="138363.453" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 629" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43652.0195" Y="138130.031" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 631" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43683.7773" Y="138067.078" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 632" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43638.4102" Y="138063.594" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 633" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43592.8438" Y="137976" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 634" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43541.5078" Y="137889.438" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 635" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43716.2695" Y="137702.031" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 636" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43721.4336" Y="137636.469" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 637" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43747.7695" Y="137620.719" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 638" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="42859.4141" Y="138281.312" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 640" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="42900.3203" Y="138069.234" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 641" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="42914.4297" Y="138133.5" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 642" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43098.3867" Y="137849.766" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 643" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43097.7109" Y="137838.953" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 644" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43153.6953" Y="137639.078" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 645" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43537.2383" Y="137618.141" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 646" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43137.1367" Y="137461.031" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 647" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43018.1094" Y="137454.922" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 648" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="42921.4297" Y="137381.359" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 649" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="42624.3359" Y="137961.438" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 650" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="42779.1602" Y="137936.438" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 651" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="42552.207" Y="137750.578" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 652" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="42256.0859" Y="137692.953" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 653" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="42589.7812" Y="137360.625" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 657" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43068.2852" Y="137134.703" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 658" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43094.2031" Y="137132.656" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 659" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43148.7852" Y="137065.297" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 660" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43365.3984" Y="137176.547" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 661" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44123.7383" Y="137271.297" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 662" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44215.0625" Y="137186.719" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 663" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44244.0898" Y="137331.188" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 664" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44297.1445" Y="137292.281" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 665" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44346.6641" Y="137288.984" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 666" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44453.7734" Y="137215.516" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 668" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44495.9062" Y="137167.531" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 669" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44425.9375" Y="137287.812" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 670" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44073.3086" Y="137047.047" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 672" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44055.4727" Y="136809.547" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 673" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="42129.8945" Y="136882.625" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 676" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="42393.8828" Y="136821.734" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 678" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43673.5195" Y="135717.844" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 679" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="45437.9453" Y="137506.047" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 680" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44559.5273" Y="137852.688" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 681" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28051.9141" Y="84888.9844" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 682" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28066.457" Y="84877.3516" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 683" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28025.8008" Y="84752.2031" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 684" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28521.5195" Y="84534.0156" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 685" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28301.3438" Y="84558.0312" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 686" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29606.9199" Y="86073.3281" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 687" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29689.1562" Y="86034.8984" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 688" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29459.1406" Y="86355.9609" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 689" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29263.7129" Y="86289.1484" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 690" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28892.7344" Y="86228.1172" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 691" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28747.9824" Y="86017" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 692" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="26637.4531" Y="86020.9375" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 693" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="26641.0234" Y="86002.1875" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 694" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="26621.166" Y="86040.5703" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 695" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="26268.7871" Y="85790.8984" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 696" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="26774.3672" Y="84856.4922" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 679" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29964.3105" Y="84888.1016" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 680" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="30159.9707" Y="85412.0078" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 681" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="30190.1035" Y="85639" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 682" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="30194.5234" Y="85626.1484" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 683" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="29123.4688" Y="85577.1562" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 684" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="28593.6895" Y="85524.7422" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 685" Type="Dot" PartOfGroup="lymphocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44281.1484" Y="137591.547" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 676" Type="Dot" PartOfGroup="monocytes" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43907.5664" Y="135672.312" />
+			</Coordinates>
+		</Annotation>
+	</Annotations>
+	<AnnotationGroups>
+		<Group Name="ROI" PartOfGroup="None" Color="#000000">
+			<Attributes />
+		</Group>
+		<Group Name="lymphocytes" PartOfGroup="None" Color="#ff0000">
+			<Attributes />
+		</Group>
+		<Group Name="monocytes" PartOfGroup="None" Color="#ffff00">
+			<Attributes />
+		</Group>
+	</AnnotationGroups>
+</ASAP_Annotations>
