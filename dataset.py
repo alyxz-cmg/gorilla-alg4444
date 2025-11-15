@@ -44,7 +44,7 @@ class MonkeyDataset(Dataset):
                 all_annotations[slide_id] = annotations_list
                 
         print(f"Successfully loaded annotations for {len(all_annotations)} slides.")
-        
+
         return all_annotations
     
     def _load_roi_bounds(self, tissue_mask_dir):
@@ -98,3 +98,91 @@ class MonkeyDataset(Dataset):
         print(f"Successfully computed ROI bounds for {len(roi_bounds)} slides from TIF masks.")
 
         return roi_bounds
+    
+    def _create_patch_samples(self, roi_bounds):
+        samples = []
+
+        for slide_id, dots in self.annotations.items():
+            if not slide_id in roi_bounds:
+                continue
+
+            bounds = roi_bounds[slide_id]
+            xmin, ymin = bounds['xmin'], bounds['ymin']
+            xmax, ymax = bounds['xmax'], bounds['ymax']
+
+            for dot in dots:
+                x_center, y_center = dot['x'], dot['y']
+                x_global = x_center - self.patch_size // 2
+                y_global = y_center - self.patch_size // 2
+                
+                if x_global >= 0 and y_global >= 0 and \
+                    x_global + self.patch_size <= xmax and \
+                    y_global + self.patch_size <= ymax:
+                    samples.append((slide_id, x_global, y_global))
+
+            num_negative = len(dots) // 5 
+        
+            for _ in range(num_negative):
+                x_rand = random.randint(xmin, xmax - self.patch_size)
+                y_rand = random.randint(ymin, ymax - self.patch_size)
+                samples.append((slide_id, x_rand, y_rand))  
+
+        return samples
+
+    def _get_augmentations(self, split):
+        base_augs = [
+            A.VerticalFlip(p=0.5),
+            A.HorizontalFlip(p=0.5),
+            A.RandomRotate90(p=0.5),
+            A.ColorJitter(brightness=0.1, contrast=0.1, saturation=0.1, hue=0.05, p=0.8),
+            A.Normalize(mean=(0.5, 0.5, 0.5), std=(0.5, 0.5, 0.5)), 
+            ToTensorV2() 
+        ]
+        
+        if split == 'train':
+            return A.Compose(base_augs)
+        
+        else:
+            return A.Compose([A.Normalize(mean=(0.5, 0.5, 0.5), std=(0.5, 0.5, 0.5)), ToTensorV2()])
+
+    def __len__(self):
+        return len(self.samples)
+
+    def __getitem__(self, index):
+        slide_id, x_global, y_global = self.samples[index]
+        
+        slide_path = os.path.join(self.pas_cpg_dir, f"{slide_id}_PAS_CPG.tif")
+        slide = None
+
+        try:
+            slide = openslide.OpenSlide(slide_path)
+            pas_patch_pil = slide.read_region((x_global, y_global), 0, (self.patch_size, self.patch_size))
+            pas_patch = np.array(pas_patch_pil.convert("RGB"))
+
+        except Exception as e:
+            print(f"Error reading slide {slide_id}: {e}. Retrying with random index.")
+            return self.__getitem__(random.randint(0, len(self.samples) - 1)) 
+        
+        finally:
+            if slide is not None:
+                slide.close()
+
+        patch_annotations = []
+        for dot in self.annotations.get(slide_id, []):
+            x_dot, y_dot, class_id = dot['x'], dot['y'], dot['class_id']
+            
+            if (x_global <= x_dot < x_global + self.patch_size) and \
+               (y_global <= y_dot < y_global + self.patch_size):
+                
+                x_local = x_dot - x_global
+                y_local = y_dot - y_global
+                patch_annotations.append([x_local, y_local, class_id])
+                
+        target_heatmap = create_heatmap(patch_annotations, num_classes=2)
+
+        if self.transform:
+            augmented = self.transform(image=pas_patch, masks=[target_heatmap[i] for i in range(2)])
+            pas_patch = augmented['image'] 
+            target_heatmap = torch.stack(augmented['masks'])
+
+        return pas_patch, target_heatmap
