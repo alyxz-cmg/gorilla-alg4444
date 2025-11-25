@@ -8,7 +8,7 @@ from dataset import MonkeyDataset
 from utils import collate_fn
 from tqdm import tqdm
 
-NUM_EPOCHS = 5
+NUM_EPOCHS = 10
 BATCH_SIZE = 16
 LEARNING_RATE = 1e-4
 
@@ -49,7 +49,7 @@ def validate_model(model, val_loader, criterion, device):
     return avg_val_loss
 
 class WeightedMSELoss(nn.Module):
-    def __init__(self, weight=10.0):
+    def __init__(self, weight=100.0):
         super().__init__()
         self.weight = weight
 
@@ -85,7 +85,7 @@ def train_model(train_dataset, val_dataset):
         print(f"🔄 Loading best weights from {best_model_path} to resume training...")
         model.load_state_dict(torch.load(best_model_path, map_location=DEVICE))
     
-    criterion = WeightedMSELoss(weight=50.0) 
+    criterion = WeightedMSELoss(weight=100.0) 
     optimizer = torch.optim.Adam(model.parameters(), lr=LEARNING_RATE)
     
     best_val_loss = np.inf

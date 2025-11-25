@@ -16,6 +16,8 @@ def create_heatmap(annotations_list, patch_size=PATCH_SIZE, num_classes=2, sigma
             heatmaps[class_id, y_rel, x_rel] = 1.0 
     
     heatmaps = gaussian_filter(heatmaps, sigma=(0, sigma, sigma))
+    scaling_factor = 2 * np.pi * (sigma ** 2)
+    heatmaps *= scaling_factor
     
     return heatmaps
 
