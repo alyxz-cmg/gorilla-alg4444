@@ -56,7 +56,7 @@ class WeightedMSELoss(nn.Module):
     def forward(self, pred, target):
         loss = (pred - target) ** 2
 
-        weights = torch.ones_like(target) + (target > 0).float() * (self.weight - 1)
+        weights = torch.ones_like(target) + (target > 0.05).float() * (self.weight - 1)
 
         loss = loss * weights
         return loss.mean()
