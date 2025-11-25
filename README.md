@@ -1,14 +1,14 @@
-🐵 **MONKEY Challenge: Kidney Inflammation Detection**
+# 🐵 **MONKEY Challenge: Kidney Inflammation Detection**
 
 
-📋 **Overview**
+## 📋 **Overview**
 
 This repository contains a deep learning solution for the MONKEY Challenge (Machine-learning for Optimal detection of iNflammatory cells in the KidnEY): https://monkey.grand-challenge.org/
 
 The goal is to automatically detect and classify inflammatory cells (Lymphocytes and Monocytes) in Whole Slide Images (WSI) of kidney transplant biopsies. This solution utilizes a U-Net architecture with a ResNet34 encoder to perform heatmap regression, effectively locating cell centers even in dense tissue regions.
 
 
-✨ **Key Features**
+## ✨ **Key Features**
 
 Architecture: U-Net with a pre-trained ResNet34 backbone.
 
@@ -23,7 +23,7 @@ Augmentation: Robust pipeline using Albumentations (color jitter, flips, rotatio
 Inference: Fast inference pipeline with peak detection logic compatible with Grand Challenge Docker requirements.
 
 
-🛠️ **Installation**
+## 🛠️ **Installation**
 
 1. Prerequisites
 
@@ -61,13 +61,35 @@ pip install -r requirements.txt
 
 
 
-📂 **Data**
+## 📂 **Data**
 
 The project requires a specific directory structure. You must download the data from the AWS Open Data Registry: https://registry.opendata.aws/monkey/
 
+monkey/  
+├── data/  
+│   ├── train/  
+│   │   ├── annotations/  
+│   │   │   └── xml/             # Raw XML annotations from ASAP  
+│   │   ├── images/  
+│   │   │   ├── pas-cpg/         # .tif WSI files  
+│   │   │   └── tissue-masks/    # .tif Tissue masks  
+│   │   └── ...  
+│   └── validation/  
+│       ├── annotations/  
+│       │   └── xml/             # Validation XMLs  
+│       ├── images/  
+│       │   ├── pas-cpg/         # Validation .tif WSI files  
+│       │   └── tissue-masks/    # Validation .tif Tissue masks  
+│       └── ... (Ground Truth JSONs in root of validation)  
+├── model_weights/               # Saved checkpoints  
+├── dataset.py  
+├── train.py  
+├── inference.py  
+└── utils.py  
+  
 
 
-🚀 **Usage**
+## 🚀 **Usage**
 
 Training
 
@@ -88,7 +110,7 @@ python inference.py
 
 
 
-🧠 **Technical Details**
+## 🧠 **Technical Details**
 
 Data Sampling
 
