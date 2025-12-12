@@ -1,0 +1,23 @@
+{
+    "lymphocytes": {
+        "froc_score": 0.4979919678714859,
+        "presicion_threshold=0_4": 1.0,
+        "recall_threshold=0_4": 0.5,
+        "presicion_threshold=0_9": 1.0,
+        "recall_threshold=0_9": 0.12449799196787148
+    },
+    "monocytes": {
+        "froc_score": 0.49919743178170145,
+        "presicion_threshold=0_4": 1.0,
+        "recall_threshold=0_4": 0.5008025682182986,
+        "presicion_threshold=0_9": 1.0,
+        "recall_threshold=0_9": 0.12038523274478331
+    },
+    "inflammatory-cells": {
+        "froc_score": 0.49955396966993754,
+        "presicion_threshold=0_4": 1.0,
+        "recall_threshold=0_4": 0.5004460303300624,
+        "presicion_threshold=0_9": 1.0,
+        "recall_threshold=0_9": 0.11507582515611062
+    }
+}

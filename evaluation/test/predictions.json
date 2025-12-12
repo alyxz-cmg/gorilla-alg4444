@@ -1,0 +1,36 @@
+[
+  {
+    "pk": "A_P000001",
+    "inputs": [
+      {
+        "interface": {
+          "slug": "kidney-transplant-biopsy",
+          "relative_path": "images/kidney-transplant-biopsy"
+        },
+        "image": {
+          "name": "A_P000001"
+        }
+      }
+    ],
+    "outputs": [
+      {
+        "interface": {
+          "slug": "detected-lymphocytes",
+          "relative_path": "detected-lymphocytes.json"
+        }
+      },
+      {
+        "interface": {
+          "slug": "detected-monocytes",
+          "relative_path": "detected-monocytes.json"
+        }
+      },
+      {
+        "interface": {
+          "slug": "detected-inflammatory-cells",
+          "relative_path": "detected-inflammatory-cells.json"
+        }
+      }
+    ]
+  }
+]
